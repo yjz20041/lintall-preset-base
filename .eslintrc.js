@@ -11,9 +11,8 @@ module.exports = {
         'eslint:recommended',
         'airbnb',
         'airbnb/hooks',
-        'plugin:@typescript-eslint/recommended',
     ],
-    parser: 'babel-eslint',
+    parser: '@typescript-eslint/parser',
     plugins: [
         '@typescript-eslint',
     ],
