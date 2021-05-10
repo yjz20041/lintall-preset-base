@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"jsx": "preserve",
+		"strict": true,   /* enable all strict type-checking options */
+		"esModuleInterop": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"allowJs": true,
+		"outDir": "./ts",
+		"target": "es5",
+		"lib": ["ES6", "DOM"],
+		"moduleResolution": "node"
+	},
+	"include": ["./test.ts"],
+	"exclude": [
+		"node_modules"
+	]
+}
