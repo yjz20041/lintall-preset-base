@@ -19,7 +19,7 @@
     "typescript": "^4.0.0"
   },
   "devDependencies": {
-    "eslint": "^7.25.0"
+    "eslint": "^7.0.0"
   },
   "author": "Mike Yang",
   "license": "ISC"
