@@ -2,6 +2,6 @@
 
 module.exports = {
     hooks: {
-        'commit-msg': 'npm run lint'
+        'commit-msg': 'npm run beforecommit'
     }
 };

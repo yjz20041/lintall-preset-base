@@ -5,3 +5,5 @@ node_modules
 ali-icon
 *.js
 *.jsx
+*.ts
+*.tsx
