@@ -1,6 +1,6 @@
 {
   "name": "lintall-preset-base",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "postinstall": "lintall-helper install"
   },
   "dependencies": {
-    "lintall-helper": "^0.0.2",
+    "lintall-helper": "^0.0.4",
     "@typescript-eslint/eslint-plugin": "^4.0.0",
     "@typescript-eslint/parser": "^4.0.0",
     "eslint-config-airbnb": "^18.0.0",
