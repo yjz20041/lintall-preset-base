@@ -1,0 +1,7 @@
+s
+dist
+*.css
+node_modules
+ali-icon
+*.js
+*.jsx
