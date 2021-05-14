@@ -1,6 +1,6 @@
 {
   "name": "lintall-preset-base",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "devDependencies": {
     "eslint": "^7.0.0"
   },
-  "author": "Mike Yang",
-  "license": "ISC"
+  "author": "Steven Yang",
+  "license": "MIT"
 }
