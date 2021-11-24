@@ -42,5 +42,9 @@ module.exports = {
         }],
 
         'import/extensions': 'off',
+        'import/no-extraneous-dependencies': 'off',
+        'import/no-unresolved': 'off',
+        'no-use-before-define': 'off',
+        '@typescript-eslint/no-use-before-define': ['error'],
     },
 };
